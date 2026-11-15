@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="src/assets/Notes.svg" alt="NotesApp Logo" width="120"/>
 
 # NotesApp
 
@@ -19,8 +18,8 @@ Create rich notes • Manage tasks • Organize ideas • Export data • Stay p
 ![JWT](https://img.shields.io/badge/JWT-Authentication-000000?style=for-the-badge&logo=jsonwebtokens)
 ![Google OAuth](https://img.shields.io/badge/Google-OAuth-4285F4?style=for-the-badge&logo=google)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
-[![Frontend](https://img.shields.io/badge/Frontend-React_Native-61DAFB?style=for-the-badge&logo=react)](https://github.com/Harshaapoorv/NotesApp)
-[![Backend](https://img.shields.io/badge/FastAPI-Production-009688?style=for-the-badge&logo=fastapi)](https://github.com/Harshaapoorv/notes-backend)
+[![Frontend](https://img.shields.io/badge/Frontend-React_Native-61DAFB?style=for-the-badge&logo=react)](https://github.com/goldenDragon/NotesApp)
+[![Backend](https://img.shields.io/badge/FastAPI-Production-009688?style=for-the-badge&logo=fastapi)](https://github.com/goldenDragon/notes-backend)
 
 </div>
 
@@ -42,8 +41,8 @@ This repository contains the **React Native mobile application** for NotesApp.
 
 | Repository | Technology | Purpose |
 |------------|------------|---------|
-| **[NotesApp](https://github.com/Harshaapoorv/NotesApp)** | React Native | Cross-platform mobile application |
-| **[notes-backend](https://github.com/Harshaapoorv/notes-backend)** | FastAPI | Authentication, Notes APIs, User Management, App Configuration |
+| **[NotesApp](https://github.com/goldenDragon/NotesApp)** | React Native | Cross-platform mobile application |
+| **[notes-backend](https://github.com/goldenDragon/notes-backend)** | FastAPI | Authentication, Notes APIs, User Management, App Configuration |
 
 ---
 
@@ -103,7 +102,7 @@ Experience NotesApp without setting up the development environment.
 
 You can download and install the latest Android APK from the GitHub Releases page.
 
-👉 [Github Release](https://github.com/Harshaapoorv/NotesApp/releases/latest)
+👉 [Github Release](https://github.com/goldenDragon/NotesApp/releases/latest)
 
 > **Requirements**
 > - Android 8.0 (API 26) or later
@@ -724,7 +723,7 @@ Follow the steps below to run NotesApp locally.
 ## 📥 Clone Repository
 
 ```bash
-git clone https://github.com/Harshaapoorv/NotesApp.git
+git clone https://github.com/goldenDragon/NotesApp.git
 
 cd NotesApp
 ```
@@ -802,7 +801,7 @@ NotesApp communicates with the Notes Backend built using FastAPI.
 Backend repository:
 
 ```text
-https://github.com/Harshaapoorv/notes-backend
+https://github.com/goldenDragon/notes-backend
 ```
 
 Start the backend before launching the mobile application.
@@ -1006,7 +1005,7 @@ Specializing in:
 - Backend Engineering
 - Full Stack Product Development
 
-🌐 [Portfolio](https://www.harshaapoorv.com)  💼 [LinkedIn](https://www.linkedin.com/in/harshaapoorv)  💻 [GitHub](https://github.com/Harshaapoorv)
+🌐 [Portfolio](https://www.goldenDragon.com)  💼 [LinkedIn](https://www.linkedin.com/in/goldenDragon)  💻 [GitHub](https://github.com/goldenDragon)
 
 ---
 
